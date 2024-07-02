@@ -97,14 +97,13 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=romiardanaputra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=romiardanaputra&show_icons=true&theme=transparent&card_width=400&title_color=22d3ee&text_color=cbd5e1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romiardanaputra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romiardanaputra&layout=compact&langs_count=8&card_width=400&theme=transparent&text_color=f0f9ff&title_color=22d3ee" />
 </a>
-<div></div>
 <a>
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romiardanaputra&" alt="romiardanaputra" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romiardanaputra&show_icons=true&theme=transparent&card_width=852&ring=22d3ee&fire=22d3ee&dates=fff&currStreakNum=22d3ee&sideNums=22d3ee" alt="romiardanaputra" />
 </a>
 
 <h3>When I Code, I Comfortable With</h3>
