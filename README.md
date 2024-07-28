@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **romiardana.official@gmail.com**
 
-- ⚡ Fun fact **Like Code Everywhere**
+- ⚡ Fun fact **Like watching JS Meme**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
