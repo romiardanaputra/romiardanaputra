@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **romiardana.official@gmail.com**
 
-- ⚡ Fun fact **I Will Challange My Self To Beat Github Roast Repo!!**
+- ⚡ Fun fact **I Will Challenge My Self To Beat Github Roast Repo!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
