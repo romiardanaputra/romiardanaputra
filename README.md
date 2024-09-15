@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kadek Romi Ardana Putra</h1>
+<h1 align="center">Hi 👋, I'm Romi Ardana</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romiardanaputra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="romiardanaputra" /> </p>
 
-- 🌱 I’m currently learning **Next JS, Laravel**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Next JS and other popular frontend's frameworks**
 
